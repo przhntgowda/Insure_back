@@ -1,0 +1,6 @@
+@AlShamil_HostAddress = http://localhost:5286
+
+GET {{AlShamil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\Al-Shamil\\AlShamil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\forgotpasswordbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\interface\\iforgotpasswordbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\forgotpassworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\interface\\iforgotpassworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\dto\\passwordresettokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\alshamildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\dto\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\smtpemailsenderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\smtpemailsenderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\interface\\iloginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\interface\\ilogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\loginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\interface\\iuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|d:\\visual studio\\al-shamil\\alshamil\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F37B8C-9C85-48B7-92B6-111856669361}|AlShamil.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7270C8A5-BEBE-4BBE-B0AF-74A4098FB709}|..\\AlShamil.BusinessEF\\AlShamil.BusinessEF.csproj|d:\\visual studio\\al-shamil\\alshamil.businessef\\interface\\ismtpemailsenderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\interface\\ismtpemailsenderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36FEA2-FF86-4FB1-BCC8-E55EA37BF816}|..\\AlShamil.Model\\AlShamil.Model.csproj|d:\\visual studio\\al-shamil\\alshamil.model\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77477ABE-A9E1-4B63-A566-1345FBFB3B6D}|..\\AlShamilEntityData\\AlShamilEntityData.csproj|d:\\visual studio\\al-shamil\\alshamilentitydata\\migrations\\20240730054128_resetpasswordtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IForgotPasswordBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\IForgotPasswordBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\Interface\\IForgotPasswordBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\IForgotPasswordBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\Interface\\IForgotPasswordBusiness.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:36:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPasswordController.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\ForgotPasswordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ForgotPasswordController.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\ForgotPasswordController.cs",
+              "RelativeToolTip": "Controllers\\ForgotPasswordController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAlwB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:56:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:37:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:13:53.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:59:41.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPasswordBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\ForgotPasswordBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\ForgotPasswordBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\ForgotPasswordBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\ForgotPasswordBusiness.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA3wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:35:50.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPasswordData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\ForgotPasswordData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\ForgotPasswordData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\ForgotPasswordData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\ForgotPasswordData.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:24:14.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IForgotPasswordData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\IForgotPasswordData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\Interface\\IForgotPasswordData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\IForgotPasswordData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\Interface\\IForgotPasswordData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:24:45.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240730054128_ResetPasswordToken.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Migrations\\20240730054128_ResetPasswordToken.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\Migrations\\20240730054128_ResetPasswordToken.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Migrations\\20240730054128_ResetPasswordToken.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\Migrations\\20240730054128_ResetPasswordToken.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:41:28.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordResetTokenDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\PasswordResetTokenDto.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Dto\\PasswordResetTokenDto.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\PasswordResetTokenDto.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Dto\\PasswordResetTokenDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:32:36.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmtpEmailSenderBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\SmtpEmailSenderBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\SmtpEmailSenderBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\SmtpEmailSenderBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\SmtpEmailSenderBusiness.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAzwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:46:48.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\UserDto.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:34:12.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlShamilDbContext.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\AlShamilDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\AlShamilDbContext.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\AlShamilDbContext.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\AlShamilDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:24:40.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\BaseDto.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Dto\\BaseDto.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\BaseDto.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Dto\\BaseDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:07:03.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmtpEmailSenderData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\SmtpEmailSenderData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\SmtpEmailSenderData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\SmtpEmailSenderData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\SmtpEmailSenderData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwCcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:08:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T10:04:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\UserData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\UserData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\UserData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:14:26.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Request\\UserRequest.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Request\\UserRequest.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Request\\UserRequest.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Request\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:34:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILoginData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\ILoginData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\Interface\\ILoginData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\ILoginData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\Interface\\ILoginData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:16:29.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\LoginBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\LoginBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\LoginBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\LoginBusiness.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:31:51.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILoginBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\ILoginBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\Interface\\ILoginBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\ILoginBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\Interface\\ILoginBusiness.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:31:31.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Response\\UserResponse.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Response\\UserResponse.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Response\\UserResponse.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Response\\UserResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:06:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\LoginData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\LoginData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\LoginData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\LoginData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\IUserBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\Interface\\IUserBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\IUserBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\Interface\\IUserBusiness.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:18:23.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\UserBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\UserBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\UserBusiness.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:17:43.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\IUserData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\Interface\\IUserData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\IUserData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\Interface\\IUserData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:17:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:14:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:13:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Request\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Request\\ResetPasswordRequest.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Request\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Request\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:46:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Dto\\LoginDto.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:03:51.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISmtpEmailSenderBusiness.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\ISmtpEmailSenderBusiness.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.BusinessEF\\Interface\\ISmtpEmailSenderBusiness.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.BusinessEF\\Interface\\ISmtpEmailSenderBusiness.cs",
+              "RelativeToolTip": "..\\AlShamil.BusinessEF\\Interface\\ISmtpEmailSenderBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:52:52.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISmtpEmailSenderData.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\ISmtpEmailSenderData.cs",
+              "RelativeDocumentMoniker": "..\\AlShamilEntityData\\Interface\\ISmtpEmailSenderData.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamilEntityData\\Interface\\ISmtpEmailSenderData.cs",
+              "RelativeToolTip": "..\\AlShamilEntityData\\Interface\\ISmtpEmailSenderData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:09:17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "..\\AlShamil.Model\\Dto\\CompanyDto.cs",
+              "ToolTip": "D:\\visual studio\\Al-Shamil\\AlShamil.Model\\Dto\\CompanyDto.cs",
+              "RelativeToolTip": "..\\AlShamil.Model\\Dto\\CompanyDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADgvxsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:48:40.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

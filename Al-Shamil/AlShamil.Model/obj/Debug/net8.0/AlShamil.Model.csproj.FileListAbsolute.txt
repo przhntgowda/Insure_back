@@ -1,0 +1,12 @@
+D:\visual studio\Al-Shamil\AlShamil.Model\bin\Debug\net8.0\AlShamil.Model.deps.json
+D:\visual studio\Al-Shamil\AlShamil.Model\bin\Debug\net8.0\AlShamil.Model.dll
+D:\visual studio\Al-Shamil\AlShamil.Model\bin\Debug\net8.0\AlShamil.Model.pdb
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.csproj.AssemblyReference.cache
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.AssemblyInfoInputs.cache
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.AssemblyInfo.cs
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.csproj.CoreCompileInputs.cache
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.dll
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\refint\AlShamil.Model.dll
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\AlShamil.Model.pdb
+D:\visual studio\Al-Shamil\AlShamil.Model\obj\Debug\net8.0\ref\AlShamil.Model.dll

@@ -1,0 +1,17 @@
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Business.deps.json
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Business.dll
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Business.pdb
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Data.dll
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Model.dll
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Data.pdb
+D:\visual studio\Al-Shamil\AlShamil.Business\bin\Debug\net8.0\AlShamil.Model.pdb
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.csproj.AssemblyReference.cache
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.AssemblyInfoInputs.cache
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.AssemblyInfo.cs
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.csproj.CoreCompileInputs.cache
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.6B94F0C6.Up2Date
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.dll
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\refint\AlShamil.Business.dll
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\AlShamil.Business.pdb
+D:\visual studio\Al-Shamil\AlShamil.Business\obj\Debug\net8.0\ref\AlShamil.Business.dll
